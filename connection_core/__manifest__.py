@@ -26,6 +26,6 @@
     },
     'currency': 'USD',
     'price': 21,
-    'images': ['static/description/thumbnail.png'],
+    'images': ['static/description/thumbnail.gif'],
     'application': True
 }
